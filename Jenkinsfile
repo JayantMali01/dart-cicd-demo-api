@@ -30,7 +30,7 @@ pipeline
 						case 'qa':
 							mule_env = 'qa'
 							cloudhub_env = 'DEV'
-							env_suffix = '-qa'
+							env_suffix = '-dev'
 							break
 						case 'prod':
 							mule_env = 'prod'
