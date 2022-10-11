@@ -11,8 +11,7 @@ pipeline
 		stage('Setup') 
 		{
       		steps 
-			{
-				
+			{	
         		script 
 				{
 				   
